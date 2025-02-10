@@ -162,6 +162,7 @@ def start(self):
         print(key)
 
 if __name__ == "__main__":
+   
     keyLogger()
 
 # import pynput
@@ -190,6 +191,3 @@ if __name__ == "__main__":
 # class KeyLogger:
 #   def _init_():
 #     pass
-kigrj1@gmail.com
-
-why won't you work" aeew
